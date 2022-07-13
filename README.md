@@ -4,7 +4,7 @@ This repo is for recording my learning.
 ## NLP
 
 ## PyTorch
-
+- [PyTorch Basics](./PyTorch/boostcourse_PyTorch_Basics.html)
 
 
 ---
