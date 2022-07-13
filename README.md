@@ -6,7 +6,7 @@ This repo is for recording my learning.
 ## PyTorch
 - [PyTorch Basics](./PyTorch/boostcourse_PyTorch_Basics.html)
 
-
+[test](https://github.com/chanzae/Study-logs/tree/main/PyTorch)
 ---
 
 References
