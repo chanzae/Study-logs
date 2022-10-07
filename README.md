@@ -1,5 +1,4 @@
 # Study log
-This repo is for recording my learning.  
 📌`ctrl + 링크 클릭`시 새 탭으로 열기가 가능합니다
 
 ## Basic
