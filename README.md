@@ -9,6 +9,9 @@ This repo is for recording my learning.
 - [HADOOP](https://tattered-airship-722.notion.site/dccf3075905141cf9173cf6fee75f5a9)  
 - [DEEP LEARNING(Tensorflow)](https://tattered-airship-722.notion.site/aafdb6ed6cbb4ac9afe22af1703a16d9)  
 
+## Practice Coding interview
+- [문제 및 풀이](https://github.com/chanzae/Coding_interview)
+
 ## NLP
 
 ## PyTorch
