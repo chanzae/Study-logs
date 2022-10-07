@@ -12,7 +12,8 @@
 ## Practice Coding interview
 - [문제 및 풀이](https://github.com/chanzae/Coding_interview)
 
-## NLP
+## SQL Tuning
+- [Oracle Tuning](https://tattered-airship-722.notion.site/SQL-05be0aa4fa0f4c198d396ff62d1e407c)
 
 ## PyTorch
 - [PyTorch Basics](./PyTorch/boostcourse_PyTorch_Basics.html)
