@@ -3,7 +3,7 @@ This repo is for recording my learning.
 
 ## Basic
 - <a href="https://tattered-airship-722.notion.site/SQL-fa5cdc82aeec482b9abf478bfa82df8a" target="_blank"> SQL </a>
-- [SQL](https://tattered-airship-722.notion.site/SQL-fa5cdc82aeec482b9abf478bfa82df8a)
+- [SQL](https://tattered-airship-722.notion.site/SQL-fa5cdc82aeec482b9abf478bfa82df8a) {:target="_blank"}
 - [Python](https://tattered-airship-722.notion.site/a2d8aa427dfc4d21a94c30c8335ebde4)  
 - [R](https://tattered-airship-722.notion.site/R-8a356d2d468b4603a55be772795cf392)  
 - [LINUX](https://tattered-airship-722.notion.site/efef54a55fb249e48439411fcbbfe4cf)  
