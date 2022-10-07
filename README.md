@@ -1,6 +1,14 @@
 # Study log
 This repo is for recording my learning. 
 
+## Basic
+- [SQL](https://tattered-airship-722.notion.site/SQL-fa5cdc82aeec482b9abf478bfa82df8a)  
+- [Python](https://tattered-airship-722.notion.site/a2d8aa427dfc4d21a94c30c8335ebde4)  
+- [R](https://tattered-airship-722.notion.site/R-8a356d2d468b4603a55be772795cf392)  
+- [LINUX](https://tattered-airship-722.notion.site/efef54a55fb249e48439411fcbbfe4cf)  
+- [HADOOP](https://tattered-airship-722.notion.site/dccf3075905141cf9173cf6fee75f5a9)  
+- [DEEP LEARNING(Tensorflow)](https://tattered-airship-722.notion.site/aafdb6ed6cbb4ac9afe22af1703a16d9)  
+
 ## NLP
 
 ## PyTorch
