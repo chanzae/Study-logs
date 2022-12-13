@@ -17,7 +17,7 @@
 
 ## PyTorch
 - [PyTorch Basics](./PyTorch/boostcourse_PyTorch_Basics.html)
-
+[test](https://github.com/chanzae/Study-logs/blob/main/pytorch/boostcourse_PyTorch_Basics.html)
 ---
 
 References
